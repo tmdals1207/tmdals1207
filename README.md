@@ -60,7 +60,7 @@
 	<p>🔘 한국기술정보학회 우수논문상 동상 (2023.11.24)</p>
 </div>
 <div align = center>
-  <img src="https://capsule-render.vercel.app/api?type=waving&&height=150&section=footer&animation=twinkling" width =100%/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&&height=170&section=footer&color=gradient&animation=twinkling" width =100%/>
 </div>
 
 
