@@ -6,7 +6,7 @@
   <img align="center" height = 210px width=56% src="https://github-readme-stats.vercel.app/api?username=tmdals1207&show_icons=true&theme=radical&hide_border=true" />
   <img align="center" height = 210px width=39% src="https://github-readme-stats.vercel.app/api/top-langs/?username=tmdals1207&layout=donut&theme=radical&hide_border=true" />
 </div>
-<br>
+
 <div align=center>
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=tmdals1207&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=89%/>
