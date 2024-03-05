@@ -59,6 +59,7 @@
   <p>🔘 K-Software Bootcamp Academy <br>기업주도 프로젝트 우수상 (2023.08.25)</p>
 	<p>🔘 SQLD (2023.12.15)</p>
 	<p>🔘 한국기술정보학회 우수논문상 동상 (2023.11.24)</p>
+	<p>🔘 정보처리기사 (필기 합격 후 실기 진행중..)</p>
 </div>
 <div align = center>
   <img src="https://capsule-render.vercel.app/api?type=waving&&height=170&section=footer&color=gradient&animation=twinkling" width =100%/>
