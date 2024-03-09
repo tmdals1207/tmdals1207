@@ -55,7 +55,7 @@
 <br>
 <div align=center>
 	<h3>📜 Certificate & Award 📜</h3>
-  <p>🔘 CSTS (2023.03.18)</p>
+  <p>🔘 CSTS 취득(2023.03.18)</p>
   <p>🔘 K-Software Bootcamp Academy <br>기업주도 프로젝트 우수상 (2023.08.25)</p>
 	<p>🔘 한국기술정보학회 우수논문상 동상 (2023.11.24)</p>
 	<p>🔘 SQLD (2023.12.15)</p>
