@@ -66,7 +66,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&&height=170&section=footer&color=gradient&animation=twinkling" width =100%/>
 </div>
 
-
 <!--
 **tmdals1207/tmdals1207** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
