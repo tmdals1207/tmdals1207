@@ -41,6 +41,26 @@
 <div align=center>
 	<h3>🛠 Tools 🛠</h3>
 	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=VisualStudioCode&lo만)</p>
+			<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white" />
+	<img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=for-the-badge&logo=EclipseIDE&logoColor=white" />
+	<br>
+	<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
+	<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white" />
+</div>
+<br><br>
+<div align=center>
+	<h3>👨‍💻 Experience 👨‍💻</h3>
+	<p>🔘 K-Software-Empowerment-BootCamp 2기 수료(2022.12 ~ 2023.08)</p>
+</div>
+<br>
+<div align=center>
+	<h3>📜 Certificate & Award 📜</h3>
+  <p>🔘 CSTS 취득(2023.03.18)</p>
+  <p>🔘 K-Software Bootcamp Academy <br>기업주도 프로젝트 우수상 (2023.08.25)</p>
+	<p>🔘 한국기술정보학회 우수논문상 동상 (2023.11.24)</p>
+	<p>🔘 SQLD 취득(2023.12.15)</p>
+	<p>🔘 정보처리기사 (필기만 합격)</p>
 	<p>🔘 TOPCIT 2등급 </p>
 </div>
 <div align = center>
