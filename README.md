@@ -2,6 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=170&section=header&text=승민'S%20Github&fontSize=60&animation=twinkling&fontAlignY=35&color=gradient" width =100%/>
 </div>
 
+
 <div align="center">
   <img align="center" height = 210px width=56% src="https://github-readme-stats.vercel.app/api?username=tmdals1207&show_icons=true&theme=radical&hide_border=true" />
   <img align="center" height = 210px width=39% src="https://github-readme-stats.vercel.app/api/top-langs/?username=tmdals1207&layout=donut&theme=radical&hide_border=true" />
