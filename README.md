@@ -62,7 +62,7 @@
 	<p>🔘 한국기술정보학회 우수논문상 동상 (2023.11.24)</p>
 	<p>🔘 SQLD 취득(2023.12.15)</p>
 	<p>🔘 정보처리기사 (필기만 합격)</p>
-	<p>🔘 TOPCIT 2등급 </p>
+	<p>🔘 TOPCIT 3수 </p>
 </div>
 <div align = center>
   <img src="https://capsule-render.vercel.app/api?type=waving&&height=170&section=footer&color=gradient&animation=twinkling" width =100%/>
