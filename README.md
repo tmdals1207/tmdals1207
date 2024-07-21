@@ -22,6 +22,7 @@
         <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white">
     </div>
 </div>
+
 <br>
 
 <div style="text-align: left;">
