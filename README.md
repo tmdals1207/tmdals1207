@@ -61,7 +61,8 @@
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 👨‍💻 Experience </h2>
     <div align="center">
-        <p>🔘 K-Software-Empowerment-BootCamp 2기 수료(2022.12 ~ 2023.08)</p>
+        <p>🔘 K-Software-Empowerment-BootCamp 2기 수료 (2022.12 ~ 2023.08)</p>
+        <p>🔘 컴퓨터 공학부 심화 캡스톤 디자인 (2024.03 ~ 2024.06)</p>
     </div>
 </div>
 
