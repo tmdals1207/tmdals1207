@@ -72,7 +72,7 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📜 Certificate & Award </h2> <br>
     <div align="center">
         <p>🔘 CSTS 취득(2023.03.18)</p>
-        <p>🔘 K-Software Bootcamp Academy <br>기업주도 프로젝트 우수상 (2023.08.25)</p>
+        <p>🔘 K-Software Bootcamp Academy <br> &nbsp기업주도 프로젝트 우수상 (2023.08.25)</p>
         <p>🔘 한국기술정보학회 우수논문상 동상 (2023.11.24)</p>
         <p>🔘 SQLD 취득(2023.12.15)</p>
         <p>🔘 정보처리기사 (필기)</p>
