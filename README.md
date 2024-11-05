@@ -1,6 +1,10 @@
 <div align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=승민'S%20GitHub&animation=twinkling&fontColor=ffffff&fontSize=60"/>
 </div>
+<div align="center", height:180px">
+  <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=tmdals1207&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tmdals1207&layout=compact&theme=nord&hide_border=true" />
+</div>
 
 <br> 
 
