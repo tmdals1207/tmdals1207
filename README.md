@@ -90,7 +90,7 @@
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br>
     <div align="center">
-        <a href=https://www.notion.so/Hi-I-m-HongSeungMin-11589272fad28038a453e7b6419f8d51/> <img
+        <a> <img
             src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white&link=https://www.notion.so/Hi-I-m-HongSeungMin-11589272fad28038a453e7b6419f8d51/">
         </a>
         <a href=https://www.instagram.com/seung._.minn_h/> <img
