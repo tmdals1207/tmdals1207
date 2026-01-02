@@ -11,7 +11,11 @@
 단순히 Ctrl C + Ctrl V로 작동하는 기능을 만드는 것이 아닌 코드 한 줄을 적더라도 좋은 코드가 무엇인지 항상 고민과 함께하고 있습니다.
 
 **TPS 300% 향상, 캐시 전략을 통한 응답속도 91% 단축, Blue/Green 무중단 배포, Auto Scaling Group을 통한 비용 절감, Prometheus와 Grafana를 통한 모니터링 시스템 구축**을 통해 프로젝트 퍼포먼스와 안정성 향상에 기여한 경험이 있습니다.
-<br>
+<br><br>
+### 배움과 성장은 함께, 조직의 성장을 적극적으로 도모합니다. 🆙
+
+나와 조직은 같이 성장한다는 마인드를 가지고 있으며, 조직의 성장을 위해 지식을 공유하는 시간을 가집니다. 높은 퍼포먼스를 위한 조직 내의 역량 강화를 위해 투명함과 신뢰의 문화를 추구하며, 어제보다 더 나은 사람이 되기 위해 매일같이 배우고 있습니다.
+<br><br>
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📚 Tech Stacks </h2> <br>
     <div align="center"><img
