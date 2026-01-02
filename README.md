@@ -2,8 +2,16 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=승민's%20GitHub&animation=twinkling&fontColor=ffffff&fontSize=60"/>
 </div>
 
-<br>   
 
+
+### 높은 퍼포먼스에 안정성을 더한 소프트웨어를 개발하는 엔지니어입니다. 👨🏻‍💻
+
+주어진 상황과 요구사항에 맞게 최적의 기술을 적용하고 최고의 결과를 산출해내기 위하여 끊임없이 노력하고 개선하는 자세를 갖추고 있습니다.
+
+단순히 Ctrl C + Ctrl V로 작동하는 기능을 만드는 것이 아닌 코드 한 줄을 적더라도 좋은 코드가 무엇인지 항상 고민과 함께하고 있습니다.
+
+**TPS 300% 향상, 캐시 전략을 통한 응답속도 91% 단축, Blue/Green 무중단 배포, Auto Scaling Group을 통한 비용 절감, Prometheus와 Grafana를 통한 모니터링 시스템 구축**을 통해 프로젝트 퍼포먼스와 안정성 향상에 기여한 경험이 있습니다.
+<br>
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📚 Tech Stacks </h2> <br>
     <div align="center"><img
